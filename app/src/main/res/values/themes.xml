@@ -11,8 +11,12 @@
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
-        <!-- Customize your theme here. -->
 
+
+        <!-- transicion del icono en login -->
+
+
+        <item name="android:windowContentTransitions">true</item>
 
 
     </style>
